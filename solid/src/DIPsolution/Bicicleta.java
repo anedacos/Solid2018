@@ -9,6 +9,6 @@ package DIPsolution;
  *
  * @author isabe
  */
-public class Bicicleta {
+public class Bicicleta extends Vehiculo{
     
 }

@@ -9,7 +9,6 @@ package DIPsolution;
  *
  * @author isabe
  */
-public class Carro {
-    public String asiento;
-    public String llanta;
+public class Carro extends Vehiculo{
+    
 }
